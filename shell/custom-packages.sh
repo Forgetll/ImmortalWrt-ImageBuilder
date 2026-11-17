@@ -73,8 +73,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-rtp2httpd luci-i18n-rtp2httpd-zh-cn"
 # 静态文件服务器dufs
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-dufs-zh-cn"
-# Docker底层支撑（不含dockerd/docker本体）
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES containerd tini libseccomp ca-certificates"
 
 
 #===========================以下imm仓库内的软件==============================↓
